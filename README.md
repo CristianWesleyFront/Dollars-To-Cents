@@ -1,1 +1,1 @@
-# Dollars-To-Cents
+# Dollars To Cents
