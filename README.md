@@ -21,7 +21,7 @@
 
 Referência do projeto [app-ideas](https://github.com/florinpop17/app-ideas) de [florinpop17](https://github.com/florinpop17)
 
-Essa pequena aplicação permite inserir uma certa quantidade de dólares e retorna em exibição sua quantidade em moedas americanas: Half dollar = 50 centavos, quarter dollar = 25 centavos, dime = 10 centavos, nickel = 5 centavos , penny = 1 centavo.
+Essa pequena aplicação permite inserir uma certa quantidade de dólares e retorna sua quantidade em moedas americanas: Half dollar = 50 centavos, quarter dollar = 25 centavos, dime = 10 centavos, nickel = 5 centavos , penny = 1 centavo.
 
 ### Ações de usuários
 
