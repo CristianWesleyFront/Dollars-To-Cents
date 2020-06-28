@@ -20,10 +20,10 @@ function App() {
           <CurrencyInput
             onChange={handleChange}
             value={coin}
-            decimalSeparator=","
-            thousandSeparator="."
+            decimalSeparator="."
+            thousandSeparator=","
             precision="2"
-            prefix="R$ "
+            prefix="US$ "
           />
 
           <DisplayCoins coins={parseInt(coin.replace(/[\D]+/g, ""))} />
